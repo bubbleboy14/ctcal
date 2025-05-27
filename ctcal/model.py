@@ -1,5 +1,6 @@
 from math import ceil
 from cantools import db
+from cantools.util import log
 from cantools.web import send_mail
 from calTemplates import REMINDER, RESCHED
 
